@@ -1,5 +1,6 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
 import { View, ScrollView, Text, TouchableOpacity } from 'react-native';
+import PropTypes from 'prop-types';
 
 import emoji from './data';
 
