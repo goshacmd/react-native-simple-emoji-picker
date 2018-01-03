@@ -76,8 +76,6 @@ EmojiPicker.defaultProps = {
 const styles = {
     picker       : {
         flex          : 0,
-        borderTopWidth: 1,
-        borderTopColor: "#ddd",
     },
     category     : {
         flex             : 0,

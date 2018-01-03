@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-emoji-picker",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "A simple emoji picker component for React Native",
   "main": "index.js",
   "scripts": {
