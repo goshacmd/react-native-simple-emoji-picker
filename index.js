@@ -83,6 +83,8 @@ const styles = {
         flex             : 0,
         paddingHorizontal: 14,
         paddingTop       : 2,
+        marginLeft       : 2,
+        paddingLeft      : 0
     },
     categoryName : {
         paddingVertical  : 8,
