@@ -1,4 +1,5 @@
 import emojiData from 'emoji-datasource';
+import "babel-polyfill";
 const CATEGORIES = ['People', 'Nature', 'Foods', 'Activity', 'Places', 'Objects', 'Symbols', 'Flags'];
 
 const charFromCode = utf16 => String.fromCodePoint(...utf16.split('-').map(u => '0x' + u));
